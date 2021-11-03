@@ -1,9 +1,9 @@
 import app from 'flarum/forum/app';
 import { extend } from 'flarum/common/extend';
-import Model from 'flarum/Model';
+import Model from 'flarum/common/Model';
 import Discussion from 'flarum/common/models/Discussion';
 import DiscussionControls from 'flarum/forum/utils/DiscussionControls';
-import DiscussionPage from 'flarum/components/DiscussionPage';
+import DiscussionPage from 'flarum/forum/components/DiscussionPage';
 import Button from 'flarum/common/components/Button';
 
 export default function () {
