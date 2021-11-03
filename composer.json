@@ -9,7 +9,7 @@
     "support": {
         "issues": "https://github.com/blomstra/flarum-ext-mark-unread/issues",
         "source": "https://github.com/blomstra/flarum-ext-mark-unread",
-        "forum": "https://blomstra.community/t/mark-unread"
+        "forum": "https://discuss.flarum.org/d/29369"
       },
     "homepage": "https://blomstra.net",
     "require": {
