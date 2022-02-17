@@ -10,15 +10,15 @@
         "issues": "https://github.com/blomstra/flarum-ext-mark-unread/issues",
         "source": "https://github.com/blomstra/flarum-ext-mark-unread",
         "forum": "https://discuss.flarum.org/d/29369"
-      },
+    },
     "homepage": "https://blomstra.net",
     "require": {
         "flarum/core": "^1.2.0"
     },
     "authors": [
         {
-            "name": "IanM",
-            "email": "ian@blomstra.net",
+            "name": "Team Blomstra",
+            "email": "development@blomstra.net",
             "role": "Developer"
         }
     ],
